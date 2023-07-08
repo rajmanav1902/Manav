@@ -21,7 +21,6 @@ I'm a passionate software developer based in India, specializing in full-stack w
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-
 ## Work Experience
 - **Software Developer Intern** at Pasona India Pvt Ltd. (May 2023 - June 2023)
   - Developed web applications using Spring Boot, specializing in the backend side.
@@ -49,10 +48,14 @@ I'm a passionate software developer based in India, specializing in full-stack w
 - Core Subjects: DBMS | OS | CN | OOPS
 - Data Structures and Algorithms (Java)
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmanav1902&layout=compact&theme=radical)
+
 ## Let's Connect!
 I'm open to new opportunities, collaboration, and connecting with like-minded professionals. Feel free to reach out to me via email at rajmanav1902@gmail.com or connect with me on LinkedIn.
 
 <div align="center">
   <img src="https://github.com/rajmanav1902/rajmanav1902/blob/main/assets/animation.gif" alt="animation" width="500" height="300" />
 </div>
+
 
