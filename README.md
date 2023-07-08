@@ -48,8 +48,17 @@ I'm a passionate software developer based in India, specializing in full-stack w
 - Core Subjects: DBMS | OS | CN | OOPS
 - Data Structures and Algorithms (Java)
 
+## GitHub Stats
+![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajmanav1902&show_icons=true&theme=radical)
+
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmanav1902&layout=compact&theme=radical)
+
+## GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajmanav1902&theme=github)
+
+## GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajmanav1902&theme=dark)
 
 ## Let's Connect!
 I'm open to new opportunities, collaboration, and connecting with like-minded professionals. Feel free to reach out to me via email at rajmanav1902@gmail.com or connect with me on LinkedIn.
