@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manav Raj Kashyap</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<p align="center">Welcome to my GitHub profile! I am a dedicated and ambitious software developer currently pursuing my B.Tech in Computer Science and Engineering. With a strong passion for development and a solid foundation in programming, I strive to create innovative solutions and contribute to the world of technology.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmanav1902&label=Profile%20views&color=0e75b6&style=flat" alt="rajmanav1902" /> </p>
 
 - 🔭 I’m currently working on **React Portfolio**
@@ -17,22 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/manav-raj-kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manav-raj-kashyap" height="30" width="40" /></a>
 </p>
-<p>Personal Projects
-  Open Board | Project Link | Source Code
-● Motive:To reinforce and apply theoretical concepts learned in web development.
-● Features: DRAW | ERASE | UNDO / REDO | STICKY NOTES | DOWNLOAD BOARD
-● Made use of Canvas API for 2D graphical drawing and Socket.io,Express(Server) for real
-time drawing.
-● Front end technology: HTML | CSS | JAVA SCRIPT
-Student Management System | Project Link | Source Code
-● Motive: To understand the entire flow of full-stack web application.
-● Features: CREATE | READ | UPDATE | DELETE (CRUD Operations)
-● Front end technology: Thymeleaf | To focus more on the backend logic
-● Back end technology: Spring Boot | Hibernate | MySql
-Jira Ticket Clone | Project Link | Source Code
-● Motive: To apply the concepts of Css DOM properties and Web storage
-● Features: Generate | Set/Change priority | Lock/Unlock | Edit | Remove
-● Front end technology: HTML | CSS | JAVA SCRIP</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
