@@ -21,6 +21,7 @@ I'm a passionate software developer based in India, specializing in full-stack w
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </div>
+
 ## Work Experience
 - **Software Developer Intern** at Pasona India Pvt Ltd. (May 2023 - June 2023)
   - Developed web applications using Spring Boot, specializing in the backend side.
