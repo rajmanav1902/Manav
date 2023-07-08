@@ -52,9 +52,6 @@ I'm a passionate software developer based in India, specializing in full-stack w
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmanav1902&layout=compact&theme=radical)
 
-## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajmanav1902&theme=github)
-
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajmanav1902&theme=dark)
 
